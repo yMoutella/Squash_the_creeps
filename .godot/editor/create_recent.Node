@@ -12,4 +12,3 @@ Path3D
 MeshInstance3D
 Node3D
 VisibleOnScreenEnabler3D
-CharacterBody3D
