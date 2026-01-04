@@ -1,12 +1,13 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1767480511
+::res://::1767538563
 icon.webp::CompressedTexture2D::27118964165343846::1744397498::1767025048::1::::<><><>0<>0<>d1498e266395186d04e973f787f3596d<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
 main.gd::GDScript::5127834760306470136::1767324500::0::1::::<>Node<><>0<>0<><>::
-main.tscn::PackedScene::1940543232055977835::1767324551::0::1::::<><><>0<>0<><>::uid://cfb7xo35cn5fo::::res://main.gd<>uid://ceuu150fmggvr::::res://player.tscn<>uid://defdm2qdva75q::::res://mob.tscn<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://mtt4mxt1rpqx::::res://score_label.gd
+main.tscn::PackedScene::1940543232055977835::1767480883::0::1::::<><><>0<>0<><>::uid://cfb7xo35cn5fo::::res://main.gd<>uid://ceuu150fmggvr::::res://player.tscn<>uid://defdm2qdva75q::::res://mob.tscn<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://mtt4mxt1rpqx::::res://score_label.gd
 mob.gd::GDScript::6924879768536141194::1767216562::0::1::::<>CharacterBody3D<><>0<>0<><>::
-mob.tscn::PackedScene::7450544337918621628::1767216599::0::1::::<><><>0<>0<><>::uid://bicorb7we351t::::res://art/mob.glb<>uid://c5wp01kn08qxe::::res://mob.gd
-player.gd::GDScript::5693221398705431802::1767217373::0::1::::<>CharacterBody3D<><>0<>0<><>::
-player.tscn::PackedScene::5096146682080455107::1767218203::0::1::::<><><>0<>0<><>::uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://cnd3r3qyfy5so::::res://player.gd
+mob.tscn::PackedScene::7450544337918621628::1767496668::0::1::::<><><>0<>0<><>::uid://bicorb7we351t::::res://art/mob.glb<>uid://c5wp01kn08qxe::::res://mob.gd
+music_player.tscn::PackedScene::8717211197418034313::1767480769::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
+player.gd::GDScript::5693221398705431802::1767481981::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player.tscn::PackedScene::5096146682080455107::1767496668::0::1::::<><><>0<>0<><>::uid://d0ypm0v45pwdv::::res://art/player.glb<>uid://cnd3r3qyfy5so::::res://player.gd
 score_label.gd::GDScript::882695378578736315::1767218141::0::1::::<>Label<><>0<>0<><>::
 ::res://art/::1767025049
 body.tres::StandardMaterial3D::-1::1744397498::0::1::::<><><>0<>0<><>::

@@ -22,8 +22,8 @@ MusicPlayer="*res://music_player.tscn"
 
 [display]
 
-window/size/viewport_width=720
-window/size/viewport_height=540
+window/size/viewport_width=1920
+window/size/viewport_height=1080
 
 [filesystem]
 
